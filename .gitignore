@@ -1,0 +1,9 @@
+# Ignore all .log files
+*.log
+
+# Ignore all files in any directory named temp
+word_docs/
+Scripts/
+
+# Ignore specific files
+notebook_template.ipynb
