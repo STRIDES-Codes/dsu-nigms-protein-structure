@@ -4,6 +4,7 @@
 # Ignore all files in any directory named temp
 word_docs/
 Scripts/
+.ipynb_checkpoints/
 
 # Ignore specific files
 notebook_template.ipynb
