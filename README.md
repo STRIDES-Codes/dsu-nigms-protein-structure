@@ -23,17 +23,18 @@ The course is structured in four submodules, allowing us to:
 
 ## Overview
 
-The course content is organized in Jupyter Notebooks. The first three notebooks cover x-ray crystallography while the 4th 
+The course content is organized in Jupyter Notebooks. The first three notebooks cover x-ray crystallography while the fourth discusses various molecular interactions.
 
 The overall structure of the modules is explained below:
 
-+ [**Submodule 00**](./Submodule_0_Phenix.ipynb) Used to launch the Phenix GUI
-+ [**Submodule 01**](./Submodule_1_protein_crystallography_background.ipynb) Provides fundamentals of protein structure and x-ray crystallography. 
-+ [**Submodule 02**](./submodule_2_solving_protein_structure.ipynb)  Solving protein structure using SAD/MAD phasing and Molecular replacement methods.
-+ [**Submodule 03**](./Submodule_3_protein_modeling_COOT.ipynb) Perform protein modeling using coot. 
-+ [**Submodule 04**](./Submodule_4_molecular_interactions.ipynb) Aims to introduce basics of molecular energies providing basics of schrodingers equation and quantum chemistry. 
++ [**Submodule 0**](Submodule_0_Phenix.ipynb) Used to launch the Phenix GUI
++ [**Submodule 1**](Submodule_1_protein_crystallography_background.ipynb) Provides fundamentals of protein structure and x-ray crystallography. 
++ [**Submodule 2**](Submodule_2_solving_protein_structure.ipynb)  Solving protein structure using SAD/MAD phasing and Molecular replacement methods.
++ [**Submodule 3**](Submodule_3_protein_modeling_COOT.ipynb) Perform protein modeling using coot. 
++ [**Submodule 4**](Submodule_4_molecular_interactions.ipynb) Aims to introduce basics of molecular energies providing basics of schrodingers equation and quantum chemistry.
+  
 ## Requirements
-Users need a Phenix account, Amazon account, sufficient internet access, and a standard web browser (e.g., Chrome, Edge, Firefox; Chrome is recommended) to create a SageMaker Notebook for analysis.  It is recommended to execute the Jupyter Notebook using an Python kernel (version > 3.10) on a standard machine with a minimum configuration of 4 vCPUs, 16 GB RAM, and 10 GB of HDD.
+Users need a Phenix account, Amazon account, sufficient internet access, and a standard web browser (e.g., Chrome, Edge, Firefox; Chrome is recommended) to create a SageMaker Notebook for analysis.  It is recommended to execute the Jupyter Notebook using a Python kernel (version > 3.10) on a standard machine with a minimum configuration of 4 vCPUs, 16 GB RAM, and 10 GB of HDD.
 
 The following are the Packages and versions used during development:
 
